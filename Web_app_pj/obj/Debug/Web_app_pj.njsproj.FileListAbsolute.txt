@@ -1,0 +1,3 @@
+C:\Users\jbric\Documents\Web_app_pj\Web_app_pj\Web_app_pj\obj\Debug\Web_app_pj.njsproj.AssemblyReference.cache
+C:\Users\jbric\Documents\Web_app_pj\Web_app_pj\Web_app_pj\obj\Debug\Web_app_pj.njsproj.CoreCompileInputs.cache
+C:\Users\jbric\Documents\Web_app_pj\Web_app_pj\Web_app_pj\bin\Microsoft.NodejsTools.WebRole.dll
